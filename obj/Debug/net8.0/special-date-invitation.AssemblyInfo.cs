@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("special-date-invitation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d0dc4bc9538fb26a365692e4842929d4a0db934")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7495a0e5dd2cc609d4a17b20d8cb64f3472301b")]
 [assembly: System.Reflection.AssemblyProductAttribute("special-date-invitation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("special-date-invitation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
