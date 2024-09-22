@@ -1,0 +1,15 @@
+D:\projects\special-date-invitation\bin\Debug\net8.0\special-date-invitation.exe
+D:\projects\special-date-invitation\bin\Debug\net8.0\special-date-invitation.deps.json
+D:\projects\special-date-invitation\bin\Debug\net8.0\special-date-invitation.runtimeconfig.json
+D:\projects\special-date-invitation\bin\Debug\net8.0\special-date-invitation.dll
+D:\projects\special-date-invitation\bin\Debug\net8.0\special-date-invitation.pdb
+D:\projects\special-date-invitation\obj\Debug\net8.0\special-date-invitation.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\special-date-invitation\obj\Debug\net8.0\special-date-invitation.AssemblyInfoInputs.cache
+D:\projects\special-date-invitation\obj\Debug\net8.0\special-date-invitation.AssemblyInfo.cs
+D:\projects\special-date-invitation\obj\Debug\net8.0\special-date-invitation.csproj.CoreCompileInputs.cache
+D:\projects\special-date-invitation\obj\Debug\net8.0\special-date-invitation.sourcelink.json
+D:\projects\special-date-invitation\obj\Debug\net8.0\special-date-invitation.dll
+D:\projects\special-date-invitation\obj\Debug\net8.0\refint\special-date-invitation.dll
+D:\projects\special-date-invitation\obj\Debug\net8.0\special-date-invitation.pdb
+D:\projects\special-date-invitation\obj\Debug\net8.0\special-date-invitation.genruntimeconfig.cache
+D:\projects\special-date-invitation\obj\Debug\net8.0\ref\special-date-invitation.dll
