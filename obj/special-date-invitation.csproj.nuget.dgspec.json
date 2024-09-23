@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\special-date-invitation\\special-date-invitation.csproj": {}
+    "/home/wsl/projects/special-date-invitation/special-date-invitation.csproj": {}
   },
   "projects": {
-    "D:\\projects\\special-date-invitation\\special-date-invitation.csproj": {
+    "/home/wsl/projects/special-date-invitation/special-date-invitation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\special-date-invitation\\special-date-invitation.csproj",
+        "projectUniqueName": "/home/wsl/projects/special-date-invitation/special-date-invitation.csproj",
         "projectName": "special-date-invitation",
-        "projectPath": "D:\\projects\\special-date-invitation\\special-date-invitation.csproj",
-        "packagesPath": "C:\\Users\\vktr\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\special-date-invitation\\obj\\",
+        "projectPath": "/home/wsl/projects/special-date-invitation/special-date-invitation.csproj",
+        "packagesPath": "/home/wsl/.nuget/packages/",
+        "outputPath": "/home/wsl/projects/special-date-invitation/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vktr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/wsl/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,16 +32,17 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Figgle": {
+              "target": "Package",
+              "version": "[0.5.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,6 @@
+/home/wsl/projects/special-date-invitation/bin/Release/net8.0/publish/special-date-invitation
+/home/wsl/projects/special-date-invitation/bin/Release/net8.0/publish/special-date-invitation.dll
+/home/wsl/projects/special-date-invitation/bin/Release/net8.0/publish/special-date-invitation.deps.json
+/home/wsl/projects/special-date-invitation/bin/Release/net8.0/publish/special-date-invitation.runtimeconfig.json
+/home/wsl/projects/special-date-invitation/bin/Release/net8.0/publish/special-date-invitation.pdb
+/home/wsl/projects/special-date-invitation/bin/Release/net8.0/publish/Figgle.dll

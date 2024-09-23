@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "g24UzkE4W7U=",
+  "dgSpecHash": "c+OW2+hJosvNuT5H3kQ7jl3o7nh6h7yhr8mZAXHf7QXfNKoWc5MH/evO44Q/yY2vn4MIWkmwjuz1Qx4pc+zOAA==",
   "success": true,
-  "projectFilePath": "D:\\projects\\special-date-invitation\\special-date-invitation.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/wsl/projects/special-date-invitation/special-date-invitation.csproj",
+  "expectedPackageFiles": [
+    "/home/wsl/.nuget/packages/figgle/0.5.1/figgle.0.5.1.nupkg.sha512"
+  ],
   "logs": []
 }
